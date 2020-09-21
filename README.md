@@ -1,16 +1,11 @@
-# netflix_redesign
+# Netflix UI Redesign
 
-A new Flutter project.
+Don't get wrong - Netflix has a wonderful UI. I just wanted to see if I could mess around in Flutter and try to make it a little bit better. 
 
-## Getting Started
+## Inspiration
+I saw a few shots on Dribbble ([here](https://dribbble.com/shots/5026483-Netflix-Mobile-App-Redesign/attachments) and [here](https://dribbble.com/shots/4987245-Netflix-Redesign)) that inspired this project. 
 
-This project is a starting point for a Flutter application.
+## Some Live Shots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I tried to make this responsive as possible. Here are a few 'action shots'. 
+Please note: I couldn't get a well-known show or movie for use in the video player for copyright reasons, so I used [this](http://publicdomainmovie.net/movie/sintel) open movie from Blender. 
