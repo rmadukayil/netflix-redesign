@@ -18,3 +18,9 @@ Please note: I couldn't get a well-known show or movie for use in the video play
 
 Here are a few 'action shots' of the finished product. 
 
+### Mobile View
+![mobileview0](screenshots/mobile0.png)
+![mobileview1](screenshots/mobile1.png)
+
+### Web View
+![web](https://media.giphy.com/media/lCbsOriPIpzHcOJjjP/giphy.gif)
