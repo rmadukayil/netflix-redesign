@@ -8,7 +8,7 @@ I saw a few shots on Dribbble ([here](https://dribbble.com/shots/5026483-Netflix
 ## Features
 Again, this is just an interface. 
 
-I used resusable and responsive widgets for the mobile and web versions. 
+I used reusable and responsive widgets for the mobile and web versions. 
 
 The web version uses a video player package (something I'd never done before). 
 
